@@ -1,7 +1,7 @@
 # Hi, I'm Hrishabh Singh Tomar 🚀
 ### Full Stack Data Scientist | MLOps Practitioner | Revenue Strategist
 
-**I don't just train models—I build end-to-end data systems that drive profit.**
+**I don't just train models. I build end-to-end data systems that drive profit.**
 
 With a Master’s in **Business Analytics & AI** and a strong foundation in **MLOps** and **Predictive Analytics**, I specialize in the full lifecycle of data science. I bridge the gap between engineering and business strategy, turning raw, unstructured data into deployed models and measurable ROI.
 
